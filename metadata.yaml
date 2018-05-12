@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '1234'
     url: http://www.gutenberg.org/2009/agents/1234
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24014#In-Blue-Creek-Ca-on
 gutenberg_issued: '2007-12-24'
 gutenberg_type: Text
 identifiers:
