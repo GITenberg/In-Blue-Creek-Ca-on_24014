@@ -1,0 +1,28 @@
+_repo: In-Blue-Creek-Ca-on_24014
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 24014-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ray, Anna Chapin
+    alias: Ray, Fan
+    birthdate: 1865
+    deathdate: 1945
+    gutenberg_agent_id: '1234'
+    url: http://www.gutenberg.org/2009/agents/1234
+description: ''
+gutenberg_issued: '2007-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24014'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Family life -- Fiction'
+- !lcsh 'Montana -- Fiction'
+- !lcc 'PS'
+title: In Blue Creek Cañon
+url: http://www.gutenberg.org/ebooks/24014
